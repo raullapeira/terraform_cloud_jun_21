@@ -18,7 +18,3 @@ variable "arm_region" {
     description = "The Azure region to create things in."
     default = "West Europe"
 }
-variable "variable_de_prueba" {
-    description = "Variable de prueba para ver en la web"
-    default = "valorxx"
-}
