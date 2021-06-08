@@ -1,6 +1,5 @@
 module "plan_basico" {
   source  = "./plan_basico"
-  azure_region = "eu-west"
 }
 module "azure-region" {
   source  = "claranet/regions/azurerm"
